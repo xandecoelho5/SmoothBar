@@ -1,0 +1,8 @@
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\bin\Debug\SmoothBar.dll
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\bin\Debug\SmoothBar.pdb
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\obj\Debug\SmoothBar.csproj.CoreCompileInputs.cache
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\obj\Debug\SmoothBar.dll
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\obj\Debug\SmoothBar.pdb
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\obj\Debug\SmoothBar.csprojAssemblyReference.cache
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\obj\Debug\SmoothBar.csproj.GenerateResource.cache
+D:\UTFPR2020\DesktopZera\SmoothBar\SmoothBar\obj\Debug\Constants.resources
